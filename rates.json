@@ -1,0 +1,10 @@
+{
+  "today": "2026-03-23",
+  "rates": {
+    "AED_RUB": 6,
+    "EGP_RUB": 6,
+    "RUB_AED": 3,
+    "RUB_EGP": 9
+  },
+  "yesterday": {}
+}

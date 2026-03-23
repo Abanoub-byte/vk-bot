@@ -1,0 +1,32 @@
+{
+  "users": {
+    "1056203746": {
+      "id": 1056203746,
+      "first_seen": "2026-03-23 14:30",
+      "last_seen": "2026-03-23 14:52",
+      "lang": "ar",
+      "msg_count": 13
+    },
+    "754521201": {
+      "id": 754521201,
+      "first_seen": "2026-03-23 14:29",
+      "last_seen": "2026-03-23 14:30",
+      "lang": "",
+      "msg_count": 9
+    }
+  },
+  "button_counts": {
+    "1000": 2,
+    "10000": 1,
+    "admin_set:0": 1,
+    "admin_set:1": 1,
+    "admin_set:2": 1,
+    "admin_set:3": 1,
+    "contact": 1,
+    "lang:ar": 3,
+    "menu": 3,
+    "pair:0": 2,
+    "pair:3": 1
+  },
+  "contacts": []
+}
